@@ -1,3 +1,4 @@
+# Two methods
 ```py
 def count_bits(x):
     num_bit = 0
@@ -22,6 +23,7 @@ print(count_bits1(200))
 ```
 
 #Result
+```py
 1984
 1920
 1792
@@ -39,4 +41,4 @@ lll
 1
 0
 3
-
+```
