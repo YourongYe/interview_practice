@@ -1,0 +1,9 @@
+1. Clean code should be elegant - simple and clean, no redandency
+2. Clean code should be focued - each function, each class should conecentrate on addressing one problem, the logic is clear
+3. Clean code needs to be well maintained, probably needs to take time to organise it.
+4. Consider all the edge cases and pass all the tests.
+5. No duplications in the code
+6. Meaningful names - a strict rule in naming a variable, a function and a class. And the name needs to make sense for the reader.
+7. Exception handling - should be able to handle different errors
+8. Comments - only when necessary
+9. 
